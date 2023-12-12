@@ -1,4 +1,4 @@
-# AtmosAware Streamlit Project
+# AtmosAware:
 
 AtmosAware is a Streamlit-based web application for performing regression analysis and predicting PM2.5 (particulate matter) levels based on various environmental factors.
 
@@ -54,6 +54,4 @@ AtmosAware is a Streamlit-based web application for performing regression analys
 
 Contributions are welcome! Feel free to open issues or pull requests for any improvements or bug fixes.
 
-## License
 
-This project is licensed under the [MIT License](LICENSE).
